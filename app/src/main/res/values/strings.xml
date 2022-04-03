@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">English Words</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="skip">skip</string>
+    <string name="search">search</string>
+    <string name="word_of_the_day">Word of the Day</string>
+    <string name="all_words">All Words</string>
+    <string-array name="words">
+        <item>about</item>
+        <item>across</item>
+        <item>all</item>
+        <item>also</item>
+        <item>and</item>
+        <item>as</item>
+        <item>at</item>
+        <item>bag</item>
+        <item>beautiful</item>
+        <item>because</item>
+        <item>but</item>
+        <item>can</item>
+        <item>come</item>
+        <item>challenge</item>
+        <item>day</item>
+        <item>defense</item>
+        <item>easy</item>
+        <item>even</item>
+        <item>fail</item>
+        <item>find</item>
+        <item>first</item>
+        <item>from</item>
+        <item>get</item>
+        <item>give</item>
+        <item>great</item>
+        <item>go</item>
+        <item>have</item>
+        <item>he</item>
+        <item>her</item>
+        <item>here</item>
+        <item>him</item>
+        <item>his</item>
+        <item>how</item>
+        <item>if</item>
+        <item>in</item>
+        <item>into</item>
+        <item>it</item>
+        <item>its</item>
+        <item>just</item>
+        <item>keep</item>
+        <item>know</item>
+        <item>late</item>
+        <item>like</item>
+        <item>make</item>
+        <item>man</item>
+        <item>many</item>
+        <item>me</item>
+        <item>more</item>
+        <item>my</item>
+        <item>new</item>
+        <item>no</item>
+        <item>not</item>
+        <item>now</item>
+        <item>of</item>
+        <item>on</item>
+        <item>one</item>
+        <item>only</item>
+        <item>or</item>
+        <item>other</item>
+        <item>out</item>
+        <item>people</item>
+        <item>say</item>
+        <item>see</item>
+        <item>she</item>
+        <item>so</item>
+        <item>some</item>
+        <item>take</item>
+        <item>tell</item>
+        <item>than</item>
+        <item>that</item>
+        <item>the</item>
+        <item>them</item>
+        <item>then</item>
+        <item>there</item>
+        <item>these</item>
+        <item>they</item>
+        <item>thing</item>
+        <item>think</item>
+        <item>time</item>
+        <item>to</item>
+        <item>two</item>
+        <item>up</item>
+        <item>very</item>
+        <item>want</item>
+        <item>way</item>
+        <item>we</item>
+        <item>well</item>
+        <item>what</item>
+        <item>when</item>
+        <item>which</item>
+        <item>who</item>
+        <item>will</item>
+        <item>with</item>
+        <item>would</item>
+        <item>you</item>
+        <item>young</item>
+    </string-array>
+
+</resources>
